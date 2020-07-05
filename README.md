@@ -1,11 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+05-07-2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project Submission-Git
 
 ### Description
-Describe what your project is about and what it does
+The project will read & display filtered data from three seperate .csv files. Each file contains bikeshare data for its respective city, while
+the user can specify which city they want to display and can either filter by the month & day if need be. Once the filters have been designated,
+the program will display relevant data such as average travel time, most popular destination & average age group.
 
 ### Files used
 Include the files used
